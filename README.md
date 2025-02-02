@@ -1,6 +1,6 @@
 # ♟️ Chess Game (Two Players)  
 
-A simple **two-player** chess game implemented in Python. Play with a friend in the terminal!  
+A simple **two-player** chess game implemented in Python. Play with a friend!  
 
 ![Chess Board](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chess_Setup.svg/800px-Chess_Setup.svg.png)  
 
