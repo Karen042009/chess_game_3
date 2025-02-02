@@ -1,10 +1,9 @@
-import player
+from player import Player
 
 
 class Game:
-    def start_game(self):
-        a = player.Player()
+    @staticmethod
+    def start_game():
+        a = Player()
         a.display()
-
-start = Game()
-start.start_game()
+Game.start_game()
